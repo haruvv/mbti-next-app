@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 追加のグローバルスタイルがあれば、ここに記述します */
+body {
+  min-height: 100vh;
+}
+
+/* その他のカスタムスタイルがあればここに追加 */
